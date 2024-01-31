@@ -22,7 +22,7 @@ La aplicación web permite realizar las siguientes acciones:
 
 A continuación se presenta un diagrama de flujo que representa el proceso general de la aplicación:
 
-![Diagrama de Flujo](url del diagrama)
+![Diagrama de Flujo](https://raw.githubusercontent.com/harrisonolvera2/prueba_tecnica/main/DIAGRAMA%20FLUJO%20PRUEBA.png)
 
 Este diagrama proporciona una visión general del flujo de trabajo en la aplicación y puede ser útil para comprender cómo interactúan las diferentes funcionalidades.
 
@@ -113,7 +113,7 @@ Si deseas probar los endpoints de la API REST de esta aplicación, he preparado 
 
 1. Abre Insomnia.
 
-2. Importa la colección directamente desde el archivo en la raíz del proyecto: [Colección_API_REST_Insomnia.json](Colección_API_REST_Insomnia.json).
+2. Importa la colección directamente desde el archivo en la raíz del proyecto: [Colección_API_REST_Insomnia.json](https://github.com/harrisonolvera2/prueba_tecnica/blob/main/Colecci%C3%B3n_API_REST_Insomnia.json).
 
 3. ¡Listo! Ahora puedes utilizar la colección para realizar solicitudes a la API REST directamente desde Insomnia.
 
